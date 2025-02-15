@@ -1,55 +1,36 @@
 
 # Hi there, I'm A SHARATH KUMAR 👋
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-link)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+[![Website]((https://sharath353.github.io/Portfolio/))](your-portfolio-link)
+[![LinkedIn]((https://www.linkedin.com/in/sharathkumara/))](your-linkedin-link)
+[![GitHub](https://github.com/SHARATH353)](your-github-link)
+[![Email](asharathkumar0305@gmail.com](mailto:your-email@example.com)
 
 ---
 
 ## 🧑‍💻 About Me  
 
-I am a passionate **Software Engineer, Full-Stack Developer, and Cloud Enthusiast**, currently pursuing my **M.S. in Data Science at San Jose State University**. With a strong foundation in **Data Structures, Algorithms, and System Design**, I focus on building **scalable and robust applications** across various domains, including **Full-Stack Development, RESTful APIs, Cloud Computing, and AI/ML**.
-
----
-
-## 🚀 What Drives Me  
-- **🔹 Full-Stack Development:** Building **scalable and efficient web applications** using **React.js, Tailwind CSS, Node.js, and Express.js**.  
-- **🔹 RESTful API & Backend Engineering:** Designing **high-performance APIs** and backend logic using **FastAPI, Flask, and Node.js**.  
-- **🔹 DevOps & CI/CD:** Automating deployments with **Docker, Kubernetes, Terraform, and Jenkins** for cloud-based systems.  
-- **🔹 Databases & Data Engineering:** Working with **PostgreSQL, MongoDB, MySQL, and Redis** for structured and unstructured data.  
-- **🔹 AI & Machine Learning:** Exploring **Deep Learning, NLP, and Transformers** to build intelligent applications.  
-- **🔹 Cloud & Scalability:** Leveraging **AWS, GCP, and Azure** for cloud-based and serverless applications.  
-- **🔹 Continuous Learning:** Exploring **Quantum Computing, Cloud Automation, and Advanced NLP**.
+I am a passionate enthusiast of Machine Learning and Artificial Intelligence, constantly exploring their potential to transform industries and solve complex problems. I’m gaining hands-on experience as a Machine Learning Intern at Infosys Springboard, where I contribute to developing innovative AI solutions. Previously, I worked as a Web Developer at Rejolt Edtech, where I honed my skills in front-end technologies like HTML, CSS, JavaScript, Figma and Streamlit. With expertise in Python, Java, SQL, and a keen interest in merging AI with web development, I am eager to apply my skills to create impactful, intelligent systems.
 
 ---
 
 ## 🛠️ Technologies I Use  
 
-### **Frontend Development**  
-**React.js, Next.js, Tailwind CSS, Material UI**  
+### **Programming Languages:**  
+**Python, Java,C/C++** 
 
-### **Backend Development**  
-**Node.js, Express.js, FastAPI, Flask**  
+### **Web Frameworks & Libraries**  
+**Django, Streamlit, Figma, HTML,CSS,JavaScript, React.js, Node.js,Express.js** 
 
-### **RESTful & API Development**  
-**GraphQL, REST, gRPC, WebSockets**  
+### **AI & Machine Learning Frameworks & Libraries**  
+**NumPy, Pandas, Keras, TensorFlow, PyTorch, Scikit-Learn, OpenCV**  
 
-### **Machine Learning & AI**  
-**TensorFlow, PyTorch, Scikit-Learn, OpenAI APIs**  
+### **Cloud & Database Technologies:**  
+**MySQL, SQL, AWS (S3, EC2, Lambda, IAM, RDS)**  
 
-### **Databases**  
-**PostgreSQL, MongoDB, Redis, MySQL**  
-
-### **DevOps & CI/CD**  
-**Docker, Kubernetes, Terraform, Jenkins, GitHub Actions**  
-
-### **Cloud Technologies**  
-**AWS (EC2, S3, Lambda), GCP, Azure**  
-
-### **Version Control & Collaboration**  
-**Git, GitHub, GitLab, Firebase**  
+### **Core Competencies:**  
+**Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks,
+Supervised and Unsupervised Learning, Neural Networks, Natural Language Processing, Regression, Classification**  
 
 ---
 
