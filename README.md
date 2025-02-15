@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit-blue)]([your-portfolio-link](https://sharath353.github.io/Portfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-link](https://www.linkedin.com/in/sharathkumara/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)]([your-github-link](https://github.com/SHARATH353))
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:asharathkumar0305@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sharathkumarsk353@gmail.com)
 
 ---
 
@@ -68,7 +68,7 @@ Supervised and Unsupervised Learning, Neural Networks, Natural Language Processi
 
 ## 📫 Connect with Me  
 
-📧 **Email:** [your-email@example.com](asharathkumar0305@gmail.com)  
+📧 **Email:** [your-email@example.com](sharathkumarsk353@gmail.com)  
 🔗 **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sharathkumara/)  
 🌐 **Portfolio:** [your-portfolio-link](https://sharath353.github.io/Portfolio/)  
 💻 **GitHub:** [your-github-profile](https://github.com/SHARATH353)  
