@@ -1,10 +1,10 @@
 
 # Hi there, I'm A SHARATH KUMAR 👋
 
-[![Website]((https://sharath353.github.io/Portfolio/))](your-portfolio-link)
-[![LinkedIn]((https://www.linkedin.com/in/sharathkumara/))](your-linkedin-link)
-[![GitHub](https://github.com/SHARATH353)](your-github-link)
-[![Email](asharathkumar0305@gmail.com](mailto:your-email@example.com)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)]([your-portfolio-link](https://sharath353.github.io/Portfolio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-link](https://www.linkedin.com/in/sharathkumara/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([your-github-link](https://github.com/SHARATH353))
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:asharathkumar0305@gmail.com)
 
 ---
 
