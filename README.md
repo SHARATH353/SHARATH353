@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)]([your-portfolio-link](https://sharath353.github.io/Portfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-link](https://www.linkedin.com/in/sharathkumara/))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([your-github-link](https://github.com/SHARATH353))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)]([your-github-link](https://github.com/SHARATH353))
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:asharathkumar0305@gmail.com)
 
 ---
